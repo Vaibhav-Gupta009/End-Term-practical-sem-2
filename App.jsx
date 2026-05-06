@@ -13,6 +13,6 @@ function NameInput() {
       <p>Your name: {name}</p>
     </div>
   );
-}
+}                                                                   
 
 export default NameInput;
